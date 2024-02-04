@@ -1,5 +1,7 @@
+
 ## project initialisation 
 ```
+init python venv 
 pip install django
 pip install djangorestframework
 django_admin startproject learn .
