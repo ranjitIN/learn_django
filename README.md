@@ -10,5 +10,13 @@ django_admin startproject learn .
 python manage.py runserver 
 ```
 
-python manage.py migrate
+## create a super user in Django 
+```
+python manage.py createsuperuser
+```
+
+## model cration and display it in admin pannel 
+- create a model in model file 
+- register model in admin site
+- makemigrations
 
